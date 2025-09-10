@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dotenv').config({debug: false});
 
 module.exports = {
     test: {
